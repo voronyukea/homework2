@@ -1,0 +1,22 @@
+
+
+body{
+	background:  #f4f3ef;}
+
+div {
+  margin-left: 300px;
+	
+  width: 500px	;
+
+}
+
+
+.im {border: 1.5px grey solid; margin-left: 20%; }
+
+.href {font-style: italic;}
+
+h1 { margin-left: 5%; font-family: sans-serif;}
+
+.grey {color: #676666;}
+
+.ftb {margin-left: 5%;}
